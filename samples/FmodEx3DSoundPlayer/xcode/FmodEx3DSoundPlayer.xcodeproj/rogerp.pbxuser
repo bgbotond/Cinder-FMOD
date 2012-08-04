@@ -1,0 +1,307 @@
+// !$*UTF8*$!
+{
+	00BAE6590E7ED9C10018A608 /* FmodEx3DSoundPlayerApp.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {747, 1495}}";
+			sepNavSelRange = "{2359, 0}";
+			sepNavVisRange = "{1584, 1356}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = C50FB81513391C7F0067A6E5 /* FmodEx3DSoundPlayer */;
+		activeTarget = 8D1107260486CEB800E47090 /* FmodEx3DSoundPlayer */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* FmodEx3DSoundPlayer */,
+		);
+		codeSenseManager = C50FB81F13391C850067A6E5 /* Code sense */;
+		executables = (
+			C50FB81513391C7F0067A6E5 /* FmodEx3DSoundPlayer */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					486,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 322938769;
+			PBXWorkspaceStateSaveDate = 322938769;
+		};
+		perUserProjectItems = {
+			C50FB975133926A10067A6E5 /* PBXTextBookmark */ = C50FB975133926A10067A6E5 /* PBXTextBookmark */;
+			C50FB980133927CF0067A6E5 /* PBXTextBookmark */ = C50FB980133927CF0067A6E5 /* PBXTextBookmark */;
+			C50FB99D13392AD20067A6E5 /* PBXTextBookmark */ = C50FB99D13392AD20067A6E5 /* PBXTextBookmark */;
+			C50FB99F13392AD20067A6E5 /* PBXTextBookmark */ = C50FB99F13392AD20067A6E5 /* PBXTextBookmark */;
+			C51BA916133FA8EA00695BA0 /* PBXTextBookmark */ = C51BA916133FA8EA00695BA0 /* PBXTextBookmark */;
+			C51BA917133FA8EA00695BA0 /* PBXTextBookmark */ = C51BA917133FA8EA00695BA0 /* PBXTextBookmark */;
+			C51BA918133FA8EA00695BA0 /* PBXTextBookmark */ = C51BA918133FA8EA00695BA0 /* PBXTextBookmark */;
+			C51BA919133FA8EA00695BA0 /* PBXTextBookmark */ = C51BA919133FA8EA00695BA0 /* PBXTextBookmark */;
+			C51BA91A133FA8EA00695BA0 /* PBXTextBookmark */ = C51BA91A133FA8EA00695BA0 /* PBXTextBookmark */;
+			C51BA91B133FA8EA00695BA0 /* PBXTextBookmark */ = C51BA91B133FA8EA00695BA0 /* PBXTextBookmark */;
+			C51BA91C133FA8EA00695BA0 /* PBXTextBookmark */ = C51BA91C133FA8EA00695BA0 /* PBXTextBookmark */;
+			C51BA92B133FAE5100695BA0 /* PBXTextBookmark */ = C51BA92B133FAE5100695BA0 /* PBXTextBookmark */;
+		};
+		sourceControlManager = C50FB81E13391C850067A6E5 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32CA4F630368D1EE00C91783 /* FmodEx3DSoundPlayer_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {751, 670}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 147}";
+		};
+	};
+	8D1107260486CEB800E47090 /* FmodEx3DSoundPlayer */ = {
+		activeExec = 0;
+		executables = (
+			C50FB81513391C7F0067A6E5 /* FmodEx3DSoundPlayer */,
+		);
+	};
+	C50FB81513391C7F0067A6E5 /* FmodEx3DSoundPlayer */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = FmodEx3DSoundPlayer;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	C50FB81E13391C850067A6E5 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	C50FB81F13391C850067A6E5 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	C50FB84713391C9A0067A6E5 /* Fmodex3DSoundPlayer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {720, 286}}";
+			sepNavSelRange = "{227, 0}";
+			sepNavVisRange = "{0, 244}";
+		};
+	};
+	C50FB84813391C9A0067A6E5 /* FmodexPlayer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {664, 884}}";
+			sepNavSelRange = "{96, 0}";
+			sepNavVisRange = "{0, 982}";
+			sepNavWindowFrame = "{{54, 0}, {1046, 878}}";
+		};
+	};
+	C50FB84B13391C9A0067A6E5 /* fmod.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1006, 32188}}";
+			sepNavSelRange = "{973, 0}";
+			sepNavVisRange = "{0, 1684}";
+		};
+	};
+	C50FB84F13391C9A0067A6E5 /* fmod_errors.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1706, 1612}}";
+			sepNavSelRange = "{7067, 6}";
+			sepNavVisRange = "{4407, 6207}";
+		};
+	};
+	C50FB8C313391C9B0067A6E5 /* Fmodex3DSoundPlayer.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {664, 884}}";
+			sepNavSelRange = "{0, 134}";
+			sepNavVisRange = "{0, 1239}";
+		};
+	};
+	C50FB8C413391C9B0067A6E5 /* FmodexPlayer.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {664, 4901}}";
+			sepNavSelRange = "{139, 6}";
+			sepNavVisRange = "{0, 1036}";
+			sepNavWindowFrame = "{{54, 0}, {1046, 878}}";
+		};
+	};
+	C50FB975133926A10067A6E5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C50FB976133926A10067A6E5 /* gl.h */;
+		name = "gl.h: 203";
+		rLen = 108;
+		rLoc = 12248;
+		rType = 0;
+		vrLen = 4981;
+		vrLoc = 10519;
+	};
+	C50FB976133926A10067A6E5 /* gl.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = gl.h;
+		path = /Users/rogerp/Documents/CREATIVE_CODING/cinder/cinder_0.8.2_mac/include/cinder/gl/gl.h;
+		sourceTree = "<absolute>";
+	};
+	C50FB980133927CF0067A6E5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C50FB981133927CF0067A6E5 /* gl.cpp */;
+		name = "gl.cpp: 205";
+		rLen = 0;
+		rLoc = 6819;
+		rType = 0;
+		vrLen = 2008;
+		vrLoc = 21825;
+	};
+	C50FB981133927CF0067A6E5 /* gl.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = gl.cpp;
+		path = /Users/rogerp/Documents/CREATIVE_CODING/cinder/cinder_0.8.2_mac/src/cinder/gl/gl.cpp;
+		sourceTree = "<absolute>";
+	};
+	C50FB99D13392AD20067A6E5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C50FB99E13392AD20067A6E5 /* file.h */;
+		name = "file.h: 5";
+		rLen = 0;
+		rLoc = 79;
+		rType = 0;
+		vrLen = 150;
+		vrLoc = 0;
+	};
+	C50FB99E13392AD20067A6E5 /* file.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = file.h;
+		path = "/Developer/Library/Xcode/File Templates/C and C++/C++ File.pbfiletemplate/file.h";
+		sourceTree = "<absolute>";
+	};
+	C50FB99F13392AD20067A6E5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* FmodEx3DSoundPlayer_Prefix.pch */;
+		name = "FmodEx3DSoundPlayer_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 147;
+		vrLoc = 0;
+	};
+	C51BA916133FA8EA00695BA0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00BAE6590E7ED9C10018A608 /* FmodEx3DSoundPlayerApp.cpp */;
+		name = "FmodEx3DSoundPlayerApp.cpp: 95";
+		rLen = 0;
+		rLoc = 2359;
+		rType = 0;
+		vrLen = 1356;
+		vrLoc = 1584;
+	};
+	C51BA917133FA8EA00695BA0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C50FB8C313391C9B0067A6E5 /* Fmodex3DSoundPlayer.cpp */;
+		name = "Fmodex3DSoundPlayer.cpp: 1";
+		rLen = 7;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1239;
+		vrLoc = 0;
+	};
+	C51BA918133FA8EA00695BA0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C50FB84713391C9A0067A6E5 /* Fmodex3DSoundPlayer.h */;
+		name = "Fmodex3DSoundPlayer.h: 6";
+		rLen = 0;
+		rLoc = 7;
+		rType = 0;
+		vrLen = 467;
+		vrLoc = 0;
+	};
+	C51BA919133FA8EA00695BA0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C50FB84813391C9A0067A6E5 /* FmodexPlayer.h */;
+		name = "FmodexPlayer.h: 6";
+		rLen = 0;
+		rLoc = 7;
+		rType = 0;
+		vrLen = 982;
+		vrLoc = 0;
+	};
+	C51BA91A133FA8EA00695BA0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C50FB8C413391C9B0067A6E5 /* FmodexPlayer.cpp */;
+		name = "FmodexPlayer.cpp: 10";
+		rLen = 0;
+		rLoc = 7;
+		rType = 0;
+		vrLen = 1036;
+		vrLoc = 0;
+	};
+	C51BA91B133FA8EA00695BA0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C50FB84F13391C9A0067A6E5 /* fmod_errors.h */;
+		name = "fmod_errors.h: 73";
+		rLen = 6;
+		rLoc = 7067;
+		rType = 0;
+		vrLen = 6207;
+		vrLoc = 4407;
+	};
+	C51BA91C133FA8EA00695BA0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C50FB84B13391C9A0067A6E5 /* fmod.h */;
+		name = "fmod.h: 22";
+		rLen = 0;
+		rLoc = 1008;
+		rType = 0;
+		vrLen = 1684;
+		vrLoc = 0;
+	};
+	C51BA92B133FAE5100695BA0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C50FB84B13391C9A0067A6E5 /* fmod.h */;
+		name = "fmod.h: 20";
+		rLen = 0;
+		rLoc = 973;
+		rType = 0;
+		vrLen = 1684;
+		vrLoc = 0;
+	};
+}
